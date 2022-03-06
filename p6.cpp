@@ -10,7 +10,7 @@ int main()
 	int a,b;
 	while(cin>>a>>b)
 	{
-		cout<<" "<<a<<" ©M "<<b<<" ªº³Ì¤j¤½¦]¼Æ: ";
+		cout<<" "<<a<<" å’Œ "<<b<<" çš„æœ€å¤§å…¬å› æ•¸: ";
 		if(b>a) swap(a,b);
 			cout<<GCD(a,b)<<"\n";
 	}
