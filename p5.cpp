@@ -5,12 +5,10 @@ int main()
 	int n;
 	while(cin>>n)
 	{
-		cout<<n<<"ªº2~99ªº¦]¼Æ¡G";
+		cout<<n<<"çš„2~99çš„å› æ•¸ï¼š";
 		for(int i=2;i<=99;i++)
-		{
 			if(n%i == 0)
 				cout<<i<<" ";
-		}
 		cout<<"\n";
 	}
 	return 0;
