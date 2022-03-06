@@ -5,9 +5,9 @@ int main()
 	int cnt = 100,ans = 0;
 	while(cnt--)
 	{
-		cout<<"²Ö¥["<<cnt+1<<"\n";
+		cout<<"ç´¯åŠ "<<cnt+1<<"\n";
 		ans+=cnt+1;
 	}
-	cout<<"Á`¦@¬°:"<<ans<<"\n";
+	cout<<"ç¸½å…±ç‚º:"<<ans<<"\n";
 	return 0;
 }
